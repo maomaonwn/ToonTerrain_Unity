@@ -1,7 +1,11 @@
 # ToonEnvironment_Unity
 ![Unity](https://img.shields.io/badge/Engine-Unity3D-lightgrey?logo=unity) ![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-地形示例项目，项目**主要用于练习Unity地形系统与场景搭建**，包含基础的地形雕刻、纹理绘制和光照效果。 
+地形示例项目，项目**主要用于练习Unity地形系统与场景搭建**，为动画风格，包含基础的地形雕刻、纹理绘制和光照效果。
+
+## 使用资产 Assets Used
+
+UnityStore中的免费资产
 
 ## 展示图片 Display
 
